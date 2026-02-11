@@ -1,4 +1,4 @@
-To compine the the files we have 2 seperate files we need to compile, combine and then run. 
+To compile the the files we have 2 seperate files we need to compile, combine and then run. 
 The following can be pasted into the terminal directly and run to complete this. 
 
 
